@@ -1,12 +1,40 @@
-## Hi there 👋
+# SLM Solusi Digital (SSD)
 
-<!--
+**Navigating the Future of Maritime Technology.**
 
-**Here are some ideas to get you started:**
+---
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## ⚓ Who We Are
+
+**SLM Solusi Digital (SSD)** is a specialized IT service provider dedicated to the **Maritime and Logistics** industry, with a distinct focus on the **Dry Bulk and Liquid Commodity** sectors.
+
+We combine deep domain expertise with advanced engineering to digitize operations for shipping lines, agencies, and charterers handling commodities such as coal, minerals, crude palm oil (CPO). Our mission is to empower maritime businesses to achieve operational excellence, regulatory compliance, and cost efficiency through technology.
+
+---
+
+## 🌊 Industry Solutions
+
+We deliver tailored digital solutions designed to meet the rigorous demands of transporting dry and liquid cargoes:
+
+### 1. Dry Bulk & Liquid Cargo Management
+Specialized platforms for managing the lifecycle of commodity transport. Features include voyage estimation, laytime & demurrage calculations, cargo quality tracking, and tank/hold cleaning management.
+
+### 2. Smart Vessel & Fleet Operations
+Real-time vessel tracking and monitoring systems optimized for bulk carriers and tankers. We provide insights into fuel consumption, hull performance, and crew management to maximize voyage profitability.
+
+### 3. Integrated Maritime Logistics
+End-to-end platforms connecting ship owners, charterers, and agents. We streamline communication and documentation flow (Bill of Lading, Manifests) to ensure seamless supply chain visibility from loading port to discharge.
+
+---
+
+## 📬 Connect With Us
+
+Ready to modernize your maritime operations? Explore our platforms and services:
+
+- 🌐 **Maritime Solutions:**
+- 🌐 **Logistics & Port Agency:** 
+- 📧 **Business Inquiries:**
+
+---
+
+&copy; 2025 SLM Solusi Digital. All rights reserved.
